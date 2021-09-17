@@ -1,6 +1,6 @@
 # Corrine Aramburo's Website
 
-(https://github.com/aramburoc/aramburoc.github.io/blob/a7eab9fad7a2f529519d2678b9eaeb4002471c69/Corrin's%20Professional%20Pic.jpg "Corrine Aramburo")
+(https://github.com/aramburoc/aramburoc.github.io/blob/main/Corrine's%20Pro%20Pic.png "Corrine Aramburo")
 
 ### All About Corrine Aramburo
 
