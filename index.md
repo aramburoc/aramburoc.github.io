@@ -1,6 +1,6 @@
 # Corrine Aramburo's Website
 
-![it's Me](https://github.com/aramburoc/aramburoc.github.io/issues/3#issue-1003697156 "Corrine Aramburo")
+![it's Me](https://www.ocf.berkeley.edu/~bre/wp-content/uploads/2019/02/corrine-sm_orig.jpg)
 
 ### All About Corrine Aramburo
 
