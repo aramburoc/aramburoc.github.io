@@ -1,6 +1,6 @@
 # Corrine Aramburo's Website
 
-[it's Me]: https://github.com/aramburoc/aramburoc.github.io/blob/4c4ba95dc7913a157e26046071153aba7bd45c25/Corrin's%20Professional%20Pic.jpg "Corrine Aramburo"
+[it's Me]: https://github.com/aramburoc/aramburoc.github.io/issues/3#issue-1003697156 "Corrine Aramburo"
 
 ### All About Corrine Aramburo
 
